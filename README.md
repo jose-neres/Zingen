@@ -1,21 +1,20 @@
-# 📝 Formulário de Matrícula
+# 🎵 Zingen
 
-Uma interface moderna para cadastro de alunos, desenvolvida com foco em organização, usabilidade e boas práticas de desenvolvimento Front-end. O projeto simula um formulário de matrícula completo, utilizando HTML5 e CSS3 para criar uma experiência visual limpa e intuitiva.
+Uma landing page desenvolvida para apresentar um aplicativo de karaokê, com foco em design, organização visual e boas práticas de desenvolvimento Front-end. O projeto foi criado para praticar conceitos de **HTML5** e **CSS3**, explorando a construção de interfaces modernas e bem estruturadas.
 
 ## 📖 Sobre o projeto
 
-O **Formulário de Matrícula** foi desenvolvido para praticar a criação de formulários completos utilizando **HTML5** e **CSS3**. A aplicação reúne diferentes tipos de campos, controles de formulário e uma interface organizada, simulando um processo de matrícula escolar.
+O **Zingen** é uma landing page que promove um aplicativo fictício de karaokê, destacando seus principais recursos por meio de uma interface organizada e visualmente atrativa.
 
-Durante o desenvolvimento foram explorados conceitos de estrutura semântica, estilização moderna, organização de layouts e criação de formulários acessíveis, fundamentais para o desenvolvimento de interfaces web.
+Durante o desenvolvimento foram aplicados conceitos de estrutura semântica, estilização com CSS, organização de layouts utilizando Flexbox e CSS Grid, além da criação de uma interface limpa e bem estruturada.
 
 ## ✨ Funcionalidades
 
-* 📝 Cadastro de informações pessoais;
-* 📷 Upload de foto do estudante;
-* 📅 Seleção de data de nascimento;
-* 📍 Preenchimento de endereço e informações de contato;
-* 🎓 Seleção de opções relacionadas à matrícula;
-* 🎨 Interface moderna e organizada.
+* 🎤 Apresentação dos principais recursos do aplicativo;
+* 🎨 Interface moderna e intuitiva;
+* 🧩 Estrutura HTML semântica;
+* 📄 Organização das informações em seções bem definidas;
+* 💡 Layout limpo e de fácil navegação.
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -25,59 +24,68 @@ Durante o desenvolvimento foram explorados conceitos de estrutura semântica, es
 * CSS Grid
 * Google Fonts
 
+## 📂 Estrutura do projeto
+
+```text
+Zingen/
+│
+├── assets/
+├── styles/
+├── index.html
+└── README.md
+```
 
 ## 🚀 Como executar o projeto
 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/jose-neres/Formulario-de-matricula.git
+git clone https://github.com/jose-neres/Zingen.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd Formulario-de-matricula
+cd Zingen
 ```
 
 3. Abra o arquivo `index.html` no navegador.
 
 Ou visualize a aplicação online:
 
-🌐 **Demo:** [Clique aqui](https://jose-neres.github.io/Formulario-de-matricula/)
+🌐 **Demo:** [Clique aqui](https://jose-neres.github.io/Zingen/)
 
 ## 🎯 Objetivos de aprendizado
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
 * Estruturação semântica com HTML5;
-* Construção de formulários completos;
-* Utilização de diferentes tipos de inputs e controles de formulário;
-* Layout com CSS Grid e Flexbox;
+* Organização de layouts utilizando Flexbox e CSS Grid;
+* Hierarquia visual e composição de interfaces;
 * Organização de estilos com CSS3;
 * Boas práticas de desenvolvimento Front-end.
 
 ## 📸 Preview
 
-<img width="1267" height="906" alt="image" src="https://github.com/user-attachments/assets/b9a5f757-00d5-46b8-b597-c0ac6e263c7e" />
+<img width="1899" height="897" alt="image" src="https://github.com/user-attachments/assets/6a5a6723-f12c-40a9-8c3f-d4be4bf7fb37" />
 
 
 ## 💡 Aprendizados
 
 Este projeto contribuiu para o desenvolvimento de habilidades em:
 
-* Criação de formulários completos e acessíveis;
-* Estruturação semântica de páginas web;
-* Organização de layouts utilizando CSS Grid e Flexbox;
-* Desenvolvimento de interfaces modernas;
-* Escrita de código HTML e CSS limpo, organizado e reutilizável.
+* Construção de landing pages modernas;
+* Organização de layouts com HTML e CSS;
+* Estruturação de interfaces semânticas;
+* Aplicação de boas práticas de estilização;
+* Escrita de código limpo, organizado e reutilizável.
 
 ## 👨‍💻 Autor
 
 **José Neres**
 
 * GitHub: [José Neres](https://github.com/jose-neres)
-* LinkedIn: [José Neres](https://www.linkedin.com/in/jose-neres/)
+* LinkedIn: 
 
 ## 📄 Licença
 
