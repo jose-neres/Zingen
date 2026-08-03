@@ -1,127 +1,89 @@
+
+
 # 🎵 Zingen
 
-<div align="center">
+Uma landing page moderna desenvolvida para divulgar um aplicativo de karaokê, com foco em uma interface elegante e responsiva. O projeto foi criado para praticar conceitos avançados de HTML e CSS, proporcionando uma experiência visual envolvente.
 
-Landing page moderna para divulgação de um aplicativo de música, desenvolvida com foco em uma interface atrativa, responsiva e uma experiência visual agradável.
+## 📖 Sobre o projeto
 
-</div>
+O **Zingen** é uma página de apresentação (landing page) que destaca os principais recursos de um aplicativo de karaokê. A interface foi construída com ênfase em design moderno, organização do código e boas práticas de desenvolvimento Front-end.
 
----
+Durante o desenvolvimento foram aplicados conceitos de responsividade e utilizando componentes reutilizáveis, resultando em uma experiência fluida em diferentes dispositivos.
 
-## 📌 Sobre o Projeto
+## ✨ Funcionalidades
 
-O **Zingen** é uma landing page desenvolvida para apresentar uma plataforma de música de forma moderna e envolvente.
+* 🎤 Apresentação dos recursos do aplicativo;
+* 📱 Layout totalmente responsivo;
+* 🎨 Interface moderna e intuitiva;
+* 🧩 Estrutura HTML semântica;
+* ⚡ Componentes organizados e reutilizáveis.
 
-O projeto explora a criação de interfaces web utilizando boas práticas de desenvolvimento Front-End, trabalhando composição visual, organização de seções, responsividade e adaptação dos elementos para diferentes tamanhos de tela.
-
-A proposta foi desenvolver uma página com aparência profissional, simulando uma apresentação real de produto digital, com foco em experiência do usuário e qualidade visual.
-
----
-
-## 🚀 Tecnologias Utilizadas
+## 🛠️ Tecnologias utilizadas
 
 * HTML5
 * CSS3
-* JavaScript
-
----
-
-## ✨ Funcionalidades e Características
-
-✔ Layout responsivo para diferentes dispositivos
-✔ Estrutura de página otimizada para apresentação de produto
-✔ Seções organizadas com foco em experiência visual
-✔ Componentes estilizados utilizando CSS
-✔ Elementos adaptáveis para diferentes resoluções
-✔ Interface moderna inspirada em plataformas digitais
-
----
-
-## 📱 Responsividade
-
-O projeto foi desenvolvido utilizando conceitos de **Design Responsivo**, garantindo uma boa adaptação da interface em diferentes dispositivos:
-
-* 💻 Desktop
-* 📱 Tablets
-* 📲 Smartphones
-
-Foram aplicadas técnicas como:
-
 * Flexbox
-* Grid Layout
-* Media Queries
-* Organização responsiva dos elementos
-
----
-
-## 🎨 Interface
-
-A construção visual do projeto teve como foco:
-
-* Hierarquia de informações
-* Seções bem distribuídas
-* Destaques visuais para conteúdos importantes
-* Experiência de navegação simples e intuitiva
-
----
+* CSS Grid
+* Mobile First
 
 
----
 
-## 🛠️ Como executar o projeto
+## 🚀 Como executar o projeto
 
-Clone o repositório:
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/jose-neres/Zingen.git
 ```
 
-Acesse a pasta:
+2. Acesse a pasta do projeto:
 
 ```bash
 cd Zingen
 ```
 
-Abra o arquivo:
+3. Abra o arquivo `index.html` no navegador.
 
-```bash
-index.html
-```
+Também é possível visualizar a aplicação online através do GitHub Pages:
 
-no navegador.
+**🔗 Demo:** https://jose-neres.github.io/Zingen/
 
----
+## 📱 Responsividade
 
-## 🎯 Objetivo do Projeto
+O projeto foi desenvolvido seguindo a abordagem **Mobile First**, garantindo uma ótima experiência em smartphones, tablets e desktops.
 
-Este projeto foi desenvolvido para aprimorar conhecimentos em desenvolvimento Front-End, aplicando conceitos como:
+## 🎯 Objetivos de aprendizado
 
-* Construção de interfaces modernas
-* Desenvolvimento responsivo
-* Organização de layouts
-* Estilização avançada com CSS
-* Criação de experiências visuais para aplicações web
+Durante o desenvolvimento foram praticados conceitos como:
 
----
+* Estruturação semântica em HTML5;
+* Organização de estilos com CSS;
+* Flexbox e CSS Grid;
+* Responsividade;
+* Boas práticas de desenvolvimento Front-end;
+* Criação de interfaces modernas.
 
 ## 📸 Preview
 
-Adicione imagens ou GIFs demonstrando o projeto:
-
-<img width="1899" height="897" alt="image" src="https://github.com/user-attachments/assets/40964446-3ee1-4807-bca6-d77bbbc518e0" />
+<img width="1899" height="897" alt="image" src="https://github.com/user-attachments/assets/8551ce56-adf2-4d0b-afc2-de2d499122f7" />
 
 
----
+## 💡 Aprendizados
 
-## 👨‍💻 Desenvolvedor
+Este projeto contribuiu para o aprimoramento de habilidades em:
+
+* Construção de landing pages profissionais;
+* Organização de layouts complexos;
+* Desenvolvimento de interfaces responsivas;
+* Escrita de código limpo e organizado.
+
+## 👨‍💻 Autor
 
 **José Neres**
 
-Desenvolvedor Front-End em evolução, criando projetos para aprimorar habilidades em interfaces web, responsividade e experiência do usuário.
+* GitHub: https://github.com/jose-neres
+* LinkedIn: 
 
-🔗 GitHub:
-https://github.com/jose-neres
+## 📄 Licença
 
----
-
-⭐ Se este projeto foi interessante, considere deixar uma estrela no repositório.
+Este projeto foi desenvolvido para fins de estudo durante a formação **Full-Stack da Rocketseat**, sem finalidade comercial.
