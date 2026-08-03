@@ -63,6 +63,8 @@ A construção visual do projeto teve como foco:
 * Destaques visuais para conteúdos importantes
 * Experiência de navegação simples e intuitiva
 
+---
+
 
 ---
 
@@ -87,8 +89,6 @@ index.html
 ```
 
 no navegador.
-ou
-🌐 **Demo:** [Clique aqui](https://jose-neres.github.io/Zingen/)
 
 ---
 
@@ -106,7 +106,10 @@ Este projeto foi desenvolvido para aprimorar conhecimentos em desenvolvimento Fr
 
 ## 📸 Preview
 
-<img width="1899" height="897" alt="image" src="https://github.com/user-attachments/assets/6a5a6723-f12c-40a9-8c3f-d4be4bf7fb37" />
+Adicione imagens ou GIFs demonstrando o projeto:
+
+<img width="1899" height="897" alt="image" src="https://github.com/user-attachments/assets/40964446-3ee1-4807-bca6-d77bbbc518e0" />
+
 
 ---
 
