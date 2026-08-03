@@ -46,7 +46,7 @@ cd Zingen
 
 Também é possível visualizar a aplicação online através do GitHub Pages:
 
-**🔗 Demo:** https://jose-neres.github.io/Zingen/
+**🔗 **Demo:** [Clique aqui](https://jose-neres.github.io/Zingen/)
 
 ## 📱 Responsividade
 
