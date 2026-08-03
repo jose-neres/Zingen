@@ -84,8 +84,7 @@ Este projeto contribuiu para o aprimoramento de habilidades em:
 **José Neres**
 
 * GitHub: https://github.com/jose-neres
-* LinkedIn: https://www.linkedin.com/in/jose-neres/
-
+* LinkedIn: 
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins de estudo durante a formação **Full-Stack da Rocketseat**, sem finalidade comercial.
