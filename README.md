@@ -1,81 +1,124 @@
 # 🎵 Zingen
 
-Uma landing page desenvolvida para apresentar um aplicativo de karaokê, com foco em design, organização visual e boas práticas de desenvolvimento Front-end. O projeto foi criado para praticar conceitos de **HTML5** e **CSS3**, explorando a construção de interfaces modernas e bem estruturadas.
+<div align="center">
 
-## 📖 Sobre o projeto
+Landing page moderna para divulgação de um aplicativo de música, desenvolvida com foco em uma interface atrativa, responsiva e uma experiência visual agradável.
 
-O **Zingen** é uma landing page que promove um aplicativo fictício de karaokê, destacando seus principais recursos por meio de uma interface organizada e visualmente atrativa.
+</div>
 
-Durante o desenvolvimento foram aplicados conceitos de estrutura semântica, estilização com CSS, organização de layouts utilizando Flexbox e CSS Grid, além da criação de uma interface limpa e bem estruturada.
+---
 
-## ✨ Funcionalidades
+## 📌 Sobre o Projeto
 
-* 🎤 Apresentação dos principais recursos do aplicativo;
-* 🎨 Interface moderna e intuitiva;
-* 🧩 Estrutura HTML semântica;
-* 📄 Organização das informações em seções bem definidas;
-* 💡 Layout limpo e de fácil navegação.
+O **Zingen** é uma landing page desenvolvida para apresentar uma plataforma de música de forma moderna e envolvente.
 
-## 🛠️ Tecnologias utilizadas
+O projeto explora a criação de interfaces web utilizando boas práticas de desenvolvimento Front-End, trabalhando composição visual, organização de seções, responsividade e adaptação dos elementos para diferentes tamanhos de tela.
+
+A proposta foi desenvolver uma página com aparência profissional, simulando uma apresentação real de produto digital, com foco em experiência do usuário e qualidade visual.
+
+---
+
+## 🚀 Tecnologias Utilizadas
 
 * HTML5
 * CSS3
+* JavaScript
+
+---
+
+## ✨ Funcionalidades e Características
+
+✔ Layout responsivo para diferentes dispositivos
+✔ Estrutura de página otimizada para apresentação de produto
+✔ Seções organizadas com foco em experiência visual
+✔ Componentes estilizados utilizando CSS
+✔ Elementos adaptáveis para diferentes resoluções
+✔ Interface moderna inspirada em plataformas digitais
+
+---
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido utilizando conceitos de **Design Responsivo**, garantindo uma boa adaptação da interface em diferentes dispositivos:
+
+* 💻 Desktop
+* 📱 Tablets
+* 📲 Smartphones
+
+Foram aplicadas técnicas como:
+
 * Flexbox
-* CSS Grid
-* Google Fonts
+* Grid Layout
+* Media Queries
+* Organização responsiva dos elementos
 
-## 🚀 Como executar o projeto
+---
 
-1. Clone o repositório:
+## 🎨 Interface
+
+A construção visual do projeto teve como foco:
+
+* Hierarquia de informações
+* Seções bem distribuídas
+* Destaques visuais para conteúdos importantes
+* Experiência de navegação simples e intuitiva
+
+
+---
+
+## 🛠️ Como executar o projeto
+
+Clone o repositório:
 
 ```bash
 git clone https://github.com/jose-neres/Zingen.git
 ```
 
-2. Acesse a pasta do projeto:
+Acesse a pasta:
 
 ```bash
 cd Zingen
 ```
 
-3. Abra o arquivo `index.html` no navegador.
+Abra o arquivo:
 
-Ou visualize a aplicação online:
+```bash
+index.html
+```
 
+no navegador.
+ou
 🌐 **Demo:** [Clique aqui](https://jose-neres.github.io/Zingen/)
 
-## 🎯 Objetivos de aprendizado
+---
 
-Durante o desenvolvimento deste projeto foram praticados conceitos como:
+## 🎯 Objetivo do Projeto
 
-* Estruturação semântica com HTML5;
-* Organização de layouts utilizando Flexbox e CSS Grid;
-* Hierarquia visual e composição de interfaces;
-* Organização de estilos com CSS3;
-* Boas práticas de desenvolvimento Front-end.
+Este projeto foi desenvolvido para aprimorar conhecimentos em desenvolvimento Front-End, aplicando conceitos como:
+
+* Construção de interfaces modernas
+* Desenvolvimento responsivo
+* Organização de layouts
+* Estilização avançada com CSS
+* Criação de experiências visuais para aplicações web
+
+---
 
 ## 📸 Preview
 
 <img width="1899" height="897" alt="image" src="https://github.com/user-attachments/assets/6a5a6723-f12c-40a9-8c3f-d4be4bf7fb37" />
 
+---
 
-## 💡 Aprendizados
-
-Este projeto contribuiu para o desenvolvimento de habilidades em:
-
-* Construção de landing pages modernas;
-* Organização de layouts com HTML e CSS;
-* Estruturação de interfaces semânticas;
-* Aplicação de boas práticas de estilização;
-* Escrita de código limpo, organizado e reutilizável.
-
-## 👨‍💻 Autor
+## 👨‍💻 Desenvolvedor
 
 **José Neres**
 
-* GitHub: [José Neres](https://github.com/jose-neres)
-* LinkedIn: 
+Desenvolvedor Front-End em evolução, criando projetos para aprimorar habilidades em interfaces web, responsividade e experiência do usuário.
 
-## 📄 Licença
+🔗 GitHub:
+https://github.com/jose-neres
 
-Este projeto foi desenvolvido para fins de estudo durante a formação **Full-Stack da Rocketseat**, sem finalidade comercial.
+---
+
+⭐ Se este projeto foi interessante, considere deixar uma estrela no repositório.
