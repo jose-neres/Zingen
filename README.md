@@ -24,17 +24,6 @@ Durante o desenvolvimento foram aplicados conceitos de estrutura semântica, est
 * CSS Grid
 * Google Fonts
 
-## 📂 Estrutura do projeto
-
-```text
-Zingen/
-│
-├── assets/
-├── styles/
-├── index.html
-└── README.md
-```
-
 ## 🚀 Como executar o projeto
 
 1. Clone o repositório:
